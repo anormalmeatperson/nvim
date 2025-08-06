@@ -1,5 +1,5 @@
 # nvim
-my neovim build, heavily based off of BreadOnPenguins'
+my neovim build, heavily based off of BreadOnPenguins' <br>
 uses lazy.nvim as a plugin manager and init.lua as the directory structure:
 
 ...
