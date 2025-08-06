@@ -1,6 +1,6 @@
 # nvim
 my neovim build, heavily based off of BreadOnPenguins' <br>
-uses lazy.nvim as a plugin manager and a separated init.lua and plugins directory structure forlazy loading:
+uses lazy.nvim as a plugin manager and a separated init.lua and plugins directory structure for lazy loading:
 
 ...
 
