@@ -32,9 +32,6 @@ require("plugins.web-devicons") -- general icons
 -- aethetic
 require("plugins.alpha") -- old ahh startup theme
 
--- misc
-require("plugins.nvim-wakatime") -- hacktime thing
-
 
 
 --- what i've learned
