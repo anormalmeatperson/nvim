@@ -4,11 +4,16 @@ uses lazy.nvim as a plugin manager and init.lua as the directory structure:
 
 ...
 
-~/.config/nvim
-|--init.lua
-|---lua
-    |--config
-    |--plugins
+
+    ~/.config/nvim
+    |--init.lua
+    |---lua
+        |--config
+                |-automcd.lua
+                |-keys.lua
+                |-lazy.lua
+        |--plugins
+                |-alota plugins
 
 ...
 
